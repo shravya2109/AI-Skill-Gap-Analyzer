@@ -1,0 +1,38 @@
+Senior Python Developer - AI/ML Focus
+
+We are seeking a highly skilled Senior Python Developer with expertise in artificial intelligence and machine learning to join our innovative technology team.
+
+Key Requirements:
+• 5+ years of Python programming experience
+• Strong proficiency in machine learning frameworks: TensorFlow, PyTorch, scikit-learn
+• Experience with data analysis libraries: pandas, NumPy, matplotlib, seaborn
+• Database expertise: PostgreSQL, MongoDB, Redis
+• Cloud platforms: AWS (EC2, S3, Lambda), Docker containerization
+• Web development: Django, Flask, RESTful APIs
+• Version control: Git, GitHub workflows
+• Agile methodologies: Scrum, Kanban
+• CI/CD pipelines: Jenkins, GitHub Actions
+
+Desired Skills:
+• Deep learning and neural networks
+• Computer vision or NLP projects
+• Kubernetes orchestration
+• React.js for frontend development
+• Apache Spark for big data processing
+• Linux/Unix system administration
+• Data visualization: Tableau, Power BI
+• Statistical analysis and hypothesis testing
+• Project management and team leadership
+• Strong communication and presentation skills
+
+Technical Requirements:
+• Bachelor's/Master's in Computer Science or related field
+• Experience with microservices architecture
+• Knowledge of software design patterns
+• Understanding of data structures and algorithms
+• Experience with automated testing (pytest, unittest)
+• Familiarity with message queues (RabbitMQ, Apache Kafka)
+• Knowledge of security best practices
+• Performance optimization and debugging skills
+
+This role offers excellent growth opportunities in AI/ML development with a collaborative, innovation-focused team environment.

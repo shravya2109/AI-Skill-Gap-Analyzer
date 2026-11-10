@@ -1,0 +1,33 @@
+# Core Streamlit Framework
+streamlit>=1.28.0
+
+# AI/ML Dependencies
+google-generativeai>=0.3.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+
+# Data Manipulation
+pandas>=2.0.0
+
+# Visualization Libraries
+plotly>=5.17.0
+altair>=5.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Web Requests (if needed for future features)
+requests>=2.31.0
+
+# Regular Expressions (built-in but explicit for clarity)
+# re - built-in Python module
+
+# JSON handling (built-in but explicit for clarity) 
+# json - built-in Python module
+
+# Operating System interface (built-in)
+# os - built-in Python module

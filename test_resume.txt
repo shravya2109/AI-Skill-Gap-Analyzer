@@ -1,0 +1,39 @@
+Test Resume Content for Enhanced Styling Demo
+
+JOHN DOE
+Software Developer
+
+TECHNICAL SKILLS:
+- Programming Languages: Python, JavaScript, HTML, CSS
+- Frameworks: Django, Flask
+- Databases: MySQL, SQLite
+- Tools: Git, VS Code
+- Operating Systems: Windows, Linux
+
+EXPERIENCE:
+Software Developer Intern
+Tech Company (2023-2024)
+- Developed web applications using Django framework
+- Created responsive user interfaces with HTML/CSS
+- Collaborated with team using Git version control
+- Worked on database design and optimization
+
+EDUCATION:
+Bachelor of Computer Science
+University Name (2020-2024)
+
+PROJECTS:
+1. E-commerce Website
+   - Built using Django and MySQL
+   - Implemented user authentication and payment processing
+   - Technologies: Python, Django, MySQL, HTML, CSS, JavaScript
+
+2. Personal Portfolio Website
+   - Responsive design with modern UI
+   - Technologies: HTML, CSS, JavaScript
+
+SOFT SKILLS:
+- Problem Solving
+- Team Collaboration  
+- Communication
+- Time Management
